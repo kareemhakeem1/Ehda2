@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /studio/
-Disallow: /cards/
+Disallow: /studio.html
+Disallow: /cards.html
+Disallow: /sample.html
 Disallow: /i/
